@@ -1,0 +1,64 @@
+{
+  "projects": [
+    {
+      "id": 0,
+      "project_name": "Random Quote Generator",
+      "description": "An interactive quote generator built with JavaScript arrays, objects, and functions. The application randomly selects quotes and displays their sources, along with available citations or years, when the user clicks a button.",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "live_link": "https://mnvore.github.io/Project-1---Random-Quote-Generator-V2/",
+      "github_link": "https://github.com/mnvore/Project-1---Random-Quote-Generator-V2",
+      "image_urls": [
+        "/static/images/project1-main.png",
+        "/static/images/project1-detail.png"
+      ]
+    },
+    {
+      "id": 1,
+      "project_name": "Data Pagination and Filtering",
+      "description": "A student directory that uses JavaScript to organize and display student information across multiple pages. The application displays nine students per page and dynamically creates pagination buttons to navigate through the directory.",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "live_link": "https://mnvore.github.io/Project-2-Submission-Data-Pagination-and-Filtering/",
+      "github_link": "https://github.com/mnvore/Project-2-Submission-Data-Pagination-and-Filtering",
+      "image_urls": [
+        "/static/images/project2-main.png",
+        "/static/images/project2-detail.png"
+      ]
+    },
+    {
+      "id": 2,
+      "project_name": "Interactive Form",
+      "description": "An interactive conference registration form that uses JavaScript to update fields based on user selections, calculate activity costs, and validate information before submission. The form includes conditional options, payment selection, and helpful validation feedback.",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "live_link": "https://mnvore.github.io/Project-3-Interactive-Form/",
+      "github_link": "https://github.com/mnvore/Project-3-Interactive-Form",
+      "image_urls": [
+        "/static/images/project3-main.png",
+        "/static/images/project3-detail.png"
+      ]
+    },
+    {
+      "id": 3,
+      "project_name": "OOP Game Show App (Phrase Hunter)",
+      "description": "An interactive phrase-guessing game built using object-oriented JavaScript. The application uses classes to manage phrases, process letter guesses, track remaining lives, and determine whether the player wins or loses.",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "live_link": "https://mnvore.github.io/unit-4-project/",
+      "github_link": "https://github.com/mnvore/unit-4-project",
+      "image_urls": [
+        "/static/images/project4-main.png",
+        "/static/images/project4-detail.png"
+      ]
+    },
+    {
+      "id": 4,
+      "project_name": "Public API Requests",
+      "description": "An employee directory that uses JavaScript and the Fetch API to retrieve information from the Random User Generator API. The application dynamically displays employee cards and lets users select an employee to view additional information in a modal window.",
+      "technologies": ["HTML", "CSS", "JavaScript", "Fetch API"],
+      "live_link": "https://mnvore.github.io/Project-5-Public-API-Requests/",
+      "github_link": "https://github.com/mnvore/Project-5-Public-API-Requests",
+      "image_urls": [
+        "/static/images/project5-main.png",
+        "/static/images/project5-detail.png"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "static_node_and_express_site-v1",
+  "version": "1.0.0",
+  "description": "Marisa Personal Portfolio",
+  "homepage": "https://github.com/mnvore/https---github.com-mnvore-Unit-6-Project#readme",
+  "bugs": {
+    "url": "https://github.com/mnvore/https---github.com-mnvore-Unit-6-Project/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnvore/https---github.com-mnvore-Unit-6-Project.git"
+  },
+  "license": "ISC",
+  "author": "Marisa Vore",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.3.0",
+    "pug": "^3.0.4"
+  }
+}
